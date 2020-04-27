@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo My Login App</string>
+    <string name="textview1">Name:</string>
+    <string name="textviewinput"></string>
+    <string name="textview2">Password</string>
+    <string name="textviewinput2"></string>
+    <string name="loginbutton">LOGIN</string>
+    <string name="cancelbutton">CANCEL</string>
+</resources>
